@@ -1,8 +1,8 @@
 {
   "name": "eyestats",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.ts",
+  "description": "A non-official RealmEye API for gathering Realm of the Mad God Exalt stats.",
+  "main": "dist/index.js",
   "scripts": {
     "start": "tsc && node dist/index.js",
     "dev": "nodemon --watch 'src/**/*.ts' --exec ts-node src/index.ts"

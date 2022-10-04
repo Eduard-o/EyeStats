@@ -4,8 +4,6 @@
 
 ## ⚙️ Quick Start
 
----
-
 First, clone this repository.
 
 ```bash
@@ -20,8 +18,6 @@ npm run start
 
 ## 📝 API
 
----
-
 Navigate to:
 
 ```bash
@@ -31,8 +27,6 @@ http://localhost:5000/p/{name}
 To get stats for a player in JSON format.
 
 ## 📖 What data does it provide you?
-
----
 
 - Name
 - Fame
@@ -44,8 +38,6 @@ To get stats for a player in JSON format.
 - Description
 
 ## ⭐️ Project assistance
-
----
 
 If you want to lend a hand, say **thank you** and/or support the active development of **EyeStats**:
 
